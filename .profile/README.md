@@ -1,4 +1,4 @@
-# !<img src="https://i.imgur.com/1sp95pk.png" alt="Logo" width="80" height="80">
+# <img src="https://i.imgur.com/1sp95pk.png" alt="Logo" width="120" height="120">
 
 We are a small team that develops discord bots from Germany
 
